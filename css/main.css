@@ -7,4 +7,7 @@ h1{
 .blog-class{
     color:lightcoral;
 }
-#
+#id_sample{
+    color:pink;
+    background:red;
+}
